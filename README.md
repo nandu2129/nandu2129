@@ -1,4 +1,4 @@
-python-3.10.8## Hi there 👋
+ Hi there 👋
 
 <!--
 **nandu2129/nandu2129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
